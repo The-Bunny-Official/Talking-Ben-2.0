@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "app_id": "",
+    "mongo": {
+        "URL": "",
+        "MainName": "",
+        "userName": "",
+        "guildName": ""
+    },
+    "channels": {
+        "error": 0,
+        "suggestions": 0
+    }
+}
